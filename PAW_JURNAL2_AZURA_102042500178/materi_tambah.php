@@ -1,0 +1,1 @@
+<?php header('Location: materi_index.php'); ?>
